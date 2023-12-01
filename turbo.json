@@ -12,6 +12,11 @@
     "dev": {
       "cache": false,
       "persistent": true
-    }
+    },
+    "server": {},
+		"migrate": {},
+		"migrate:show": {},
+		"migrate:make": {},
+		"db:flush": {}
   }
 }
